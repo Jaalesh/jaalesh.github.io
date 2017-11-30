@@ -1,2 +1,3 @@
 # rwarren.github.io
-Prime html-css-workshop
+
+This is for the HTML and CSS Workshop
